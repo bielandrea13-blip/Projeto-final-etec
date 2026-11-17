@@ -1,0 +1,6 @@
+{
+  "name": "Kroma — Catálogo & Gestão de Produtos",
+  "description": "Aplicação Full Stack (React, Node.js/Express e NoSQL) com autenticação de usuários, cadastro e listagem dinâmica de equipamentos de áudio e hardware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
